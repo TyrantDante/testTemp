@@ -1,0 +1,1404 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.1)
+  - AMapFoundation (1.5.6)
+  - Aspects (1.4.1)
+  - Billow_CheNiu/Camera (1.5.1):
+    - BillowBase
+  - Billow_CheNiu/ObjC (1.5.1):
+    - BillowBase
+    - BillowBase/ObjC
+  - Billow_CheNiu/Photobrowse (1.5.1):
+    - BillowBase
+  - Billow_CheNiu/Photoedit (1.5.1):
+    - BillowBase
+  - Billow_CheNiu/Popup (1.5.1):
+    - BillowBase
+  - Billow_CheNiu/Toast (1.5.1):
+    - BillowBase
+  - Billow_CheNiu/Video (1.5.1):
+    - BillowBase
+  - Billow_DaFengChe/Common (1.19.2):
+    - BillowBase
+  - Billow_DaFengChe/Dialog (1.19.2):
+    - BillowBase
+  - Billow_DaFengChe/ObjC (1.19.2):
+    - BillowBase
+    - BillowBase/ObjC
+  - Billow_Destiny (1.36.0):
+    - Billow_Destiny/ObjC (= 1.36.0)
+    - BillowBase
+  - Billow_Destiny/Appicon (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Carmall (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Common (1.37.1):
+    - BillowBase
+  - Billow_Destiny/Detail (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Empty (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Favourite (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Icon (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Login (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Message (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Navigation (1.37.1):
+    - BillowBase
+  - Billow_Destiny/ObjC (1.36.0):
+    - BillowBase
+    - BillowBase/ObjC
+  - Billow_Destiny/Photopicker (1.37.1):
+    - BillowBase
+  - Billow_Destiny/Profile (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Promotion (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Service (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Share (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Store (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Swift (1.36.0):
+    - BillowBase
+    - BillowBase/Swift
+  - Billow_Destiny/Tabbar (1.36.0):
+    - BillowBase
+  - Billow_Destiny/Video (1.36.0):
+    - BillowBase
+  - Billow_JiaXuan (1.8.3):
+    - Billow_JiaXuan/ObjC (= 1.8.3)
+    - BillowBase
+  - Billow_JiaXuan/Buycar (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Cardlist (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Detail (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Empty (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Home (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/List (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Login (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Message (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/ObjC (1.8.3):
+    - BillowBase
+    - BillowBase/ObjC
+  - Billow_JiaXuan/Owner (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Search (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Setting (1.8.3):
+    - BillowBase
+  - Billow_JiaXuan/Swift (1.8.3):
+    - BillowBase
+    - BillowBase/Swift
+  - Billow_JiaXuan/Tabbar (1.8.3):
+    - BillowBase
+  - BillowBase (3.0.0):
+    - BillowBase/Core (= 3.0.0)
+  - BillowBase/Core (3.0.0)
+  - BillowBase/ObjC (3.0.0):
+    - BillowBase/Core
+  - BillowBase/Swift (3.0.0):
+    - BillowBase/Core
+  - Bugtags (3.0.3):
+    - Bugtags/Core (= 3.0.3)
+  - Bugtags/Core (3.0.3)
+  - Cynosural (0.6.9):
+    - Cynosural/Core (= 0.6.9)
+  - Cynosural/AppTool (0.6.9):
+    - Cynosural/Core
+    - SCCAppTool
+  - Cynosural/Core (0.6.9):
+    - Cynosural/WebKitRegister
+    - SCCDebugLog
+    - SCCURLConfig
+    - SnapKit
+  - Cynosural/DebugWebViewTool (0.6.9):
+    - Cynosural/Core
+    - Cynosural/Foundation
+    - SCCAppTool
+    - SCCModule
+    - SCCQRCode/Scan
+  - Cynosural/Foundation (0.6.9):
+    - Masonry
+  - Cynosural/GitPannel (0.6.9):
+    - SCCAppTool
+  - Cynosural/RNDev (0.6.9):
+    - Cynosural/Foundation
+    - SCCAppTool
+    - SCCModule
+  - Cynosural/RoadMapTrackTool (0.6.9):
+    - Aspects
+    - Cynosural/Foundation
+    - SCCAppTool
+    - SCCRoadmap
+    - SCCTrack
+  - Cynosural/WebKitRegister (0.6.9)
+  - DFCAlertView (0.2.5)
+  - DFCHttpDomainConfig (1.3.1):
+    - SCCHostConfigCenter
+  - DFCHud (0.3.0):
+    - SVProgressHUD (= 2.1.2)
+  - DFCLog (0.2.0)
+  - DFCNetwork (2.3.8):
+    - AFNetworking
+    - DFCHttpDomainConfig
+    - DFCHud
+    - DFCLog
+    - DFCNetwork/config (= 2.3.8)
+    - DFCNetwork/service (= 2.3.8)
+    - DFCNetwork/tool (= 2.3.8)
+    - DFCTools
+    - SCCHostConfigCenter
+    - SCCModule
+    - SCCNet
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SVProgressHUD
+  - DFCNetwork/config (2.3.8):
+    - AFNetworking
+    - DFCHttpDomainConfig
+    - DFCHud
+    - DFCLog
+    - DFCTools
+    - SCCHostConfigCenter
+    - SCCModule
+    - SCCNet
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SVProgressHUD
+  - DFCNetwork/service (2.3.8):
+    - AFNetworking
+    - DFCHttpDomainConfig
+    - DFCHud
+    - DFCLog
+    - DFCNetwork/config
+    - DFCNetwork/tool
+    - DFCTools
+    - SCCHostConfigCenter
+    - SCCModule
+    - SCCNet
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SVProgressHUD
+  - DFCNetwork/tool (2.3.8):
+    - AFNetworking
+    - DFCHttpDomainConfig
+    - DFCHud
+    - DFCLog
+    - DFCTools
+    - SCCHostConfigCenter
+    - SCCModule
+    - SCCNet
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SVProgressHUD
+  - DFCTools (0.4.2):
+    - DFCTools/Category (= 0.4.2)
+    - DFCTools/Encryption (= 0.4.2)
+    - DFCTools/Util (= 0.4.2)
+    - DFCTools/View (= 0.4.2)
+  - DFCTools/Category (0.4.2)
+  - DFCTools/Encryption (0.4.2)
+  - DFCTools/Util (0.4.2):
+    - DFCAlertView
+    - DFCTools/Category
+  - DFCTools/View (0.4.2):
+    - Billow_DaFengChe/Common
+    - Billow_DaFengChe/ObjC
+    - DFCTools/Util
+    - Masonry
+  - DifferenceKit (0.6.0):
+    - DifferenceKit/Core (= 0.6.0)
+    - DifferenceKit/UIKitExtension (= 0.6.0)
+  - DifferenceKit/Core (0.6.0)
+  - DifferenceKit/UIKitExtension (0.6.0):
+    - DifferenceKit/Core
+  - Differentiator (3.1.0)
+  - DSTClueCenter (0.2.0):
+    - DSTUserInterface/BezierPath
+    - DSTUserInterface/Button
+    - DSTUserInterface/Toast
+    - DSTUserInterface/ViewExtensions
+    - RxCocoa
+    - RxSwift
+    - SCCDevice
+    - SCCModule
+    - SCCSwiftUtil/Common
+    - SCCSwiftUtil/Then
+    - SCCSwiftyNetwork
+    - SCCURLConfig
+    - SnapKit
+    - SwiftyJSON
+  - DSTConstant (0.1.6)
+  - DSTImagePicker (1.6.1):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Photopicker
+    - DSTUserInterface/Color
+    - DSTUserInterface/Image
+    - Kingfisher
+    - RxCocoa (~> 4.2.0)
+    - RxSwift (~> 4.2.0)
+    - SCCModule
+    - SCCSwiftUtil
+    - SnapKit
+  - DSTLocationManager (1.2.4):
+    - RxSwift
+  - DSTLog (0.1.1):
+    - Aspects
+    - SCCBusinessRouter
+    - SCCModule
+  - DSTMessageCenter (3.1.13):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Message
+    - Billow_Destiny/Swift
+    - DSTPodConfig
+    - DSTRefresh
+    - DSTUserInterface
+    - Kingfisher
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SCCModule
+    - SCCSwiftUtil
+    - SCCSwiftyNetwork
+    - SCCURLConfig
+    - SnapKit
+    - SwiftyJSON
+  - DSTMocker (0.2.3):
+    - DSTMocker/Bootstrap (= 0.2.3)
+    - DSTMocker/Core (= 0.2.3)
+    - DSTMocker/Utils (= 0.2.3)
+  - DSTMocker/Bootstrap (0.2.3):
+    - DSTMocker/Core
+    - SCCSwiftyNetwork
+  - DSTMocker/Core (0.2.3):
+    - DSTMocker/Utils
+  - DSTMocker/Utils (0.2.3)
+  - DSTPhotoBrowser (1.3.1):
+    - Billow_Destiny/Icon
+    - DSTUserInterface/Color
+    - DSTUserInterface/Toast
+    - DSTUserInterface/ViewExtensions
+    - Kingfisher
+    - SCCModule
+    - SnapKit
+  - DSTPodConfig (0.3.0)
+  - DSTRefresh (0.4.0):
+    - SCCNamespace
+  - DSTShare (0.3.15):
+    - DSTShare/UI (= 0.3.15)
+  - DSTShare/Core (0.3.15)
+  - DSTShare/UI (0.3.15):
+    - Billow_Destiny/Share
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTShare/Core
+    - SCCModule
+    - SnapKit
+  - DSTShare/Wechat (0.3.15):
+    - DSTShare/Core
+    - DSTShare/WechatSDK
+    - Kingfisher
+    - SCCModule
+  - DSTShare/WechatSDK (0.3.15)
+  - DSTUserInterface (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Alert (= 1.2.61)
+    - DSTUserInterface/BezierPath (= 1.2.61)
+    - DSTUserInterface/Button (= 1.2.61)
+    - DSTUserInterface/CGExtensions (= 1.2.61)
+    - DSTUserInterface/Color (= 1.2.61)
+    - DSTUserInterface/Controller (= 1.2.61)
+    - DSTUserInterface/DatePicker (= 1.2.61)
+    - DSTUserInterface/EmptyView (= 1.2.61)
+    - DSTUserInterface/FetchStatus (= 1.2.61)
+    - DSTUserInterface/Font (= 1.2.61)
+    - DSTUserInterface/Image (= 1.2.61)
+    - DSTUserInterface/Label (= 1.2.61)
+    - DSTUserInterface/MessageButton (= 1.2.61)
+    - DSTUserInterface/PaggerView (= 1.2.61)
+    - DSTUserInterface/PopView (= 1.2.61)
+    - DSTUserInterface/RangeSlider (= 1.2.61)
+    - DSTUserInterface/TextField (= 1.2.61)
+    - DSTUserInterface/TextView (= 1.2.61)
+    - DSTUserInterface/Toast (= 1.2.61)
+    - DSTUserInterface/ViewExtensions (= 1.2.61)
+    - SCCNamespace
+  - DSTUserInterface/Alert (1.2.61):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/BezierPath (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - SCCNamespace
+  - DSTUserInterface/Button (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - RxCocoa
+    - RxSwift
+    - SCCNamespace
+    - SCCSwiftUtil/Rx
+  - DSTUserInterface/CGExtensions (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+  - DSTUserInterface/Color (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTPodConfig
+    - SCCNamespace
+  - DSTUserInterface/Controller (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Toast
+    - SCCNamespace
+  - DSTUserInterface/DatePicker (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - DSTUserInterface/ViewExtensions
+    - RxCocoa
+    - RxSwift
+    - SCCModule
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/EmptyView (1.2.61):
+    - Billow_Destiny/Empty
+    - Billow_Destiny/Swift
+    - Billow_JiaXuan/Empty
+    - Billow_JiaXuan/Swift
+    - BillowBase
+    - DSTPodConfig
+    - DSTUserInterface/Color
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/FetchStatus (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+  - DSTUserInterface/Font (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+  - DSTUserInterface/Image (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - Kingfisher
+    - SCCNamespace
+  - DSTUserInterface/Label (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - SCCNamespace
+  - DSTUserInterface/MessageButton (1.2.61):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/CGExtensions
+    - DSTUserInterface/Color
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/PaggerView (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+  - DSTUserInterface/PopView (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - Kingfisher
+    - SCCModule
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/RangeSlider (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - SCCNamespace
+  - DSTUserInterface/TextField (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - SCCNamespace
+  - DSTUserInterface/TextView (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - SCCNamespace
+  - DSTUserInterface/Toast (1.2.61):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTPodConfig
+    - DSTUserInterface/CGExtensions
+    - DSTUserInterface/Color
+    - DSTUserInterface/Image
+    - DSTUserInterface/Label
+    - DSTUserInterface/ViewExtensions
+    - SCCNamespace
+    - SnapKit
+  - DSTUserInterface/ViewExtensions (1.2.61):
+    - Billow_Destiny/Swift
+    - BillowBase
+    - DSTUserInterface/Color
+    - DSTUserInterface/Font
+    - SCCModule
+    - SCCNamespace
+  - DSTVideoPlayer (1.0.5):
+    - Alamofire
+    - Billow_Destiny/Common
+    - Billow_Destiny/Swift
+    - Billow_Destiny/Video
+    - DSTUserInterface
+    - Kingfisher
+    - ObjectMapper
+    - RxDataSources
+    - RxSwift
+    - SCCSwiftUtil/Rx
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - GDPerformanceView-Swift (1.2.0)
+  - Hermes_iOS (0.0.18):
+    - DFCTools
+    - DSTImagePicker
+    - DSTPhotoBrowser
+    - HermesCore
+    - Kingfisher
+    - M80AttributedLabel (~> 1.6.3)
+    - RxCocoa
+    - RxSwift
+    - SCCHostCenter
+    - SCCHostConfigCenter
+    - SCCModule
+    - SnapKit
+  - HermesCore (0.0.3):
+    - DifferenceKit
+    - MBProgressHUD
+    - Nuke
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - RxSwift
+    - SCCHostConfigCenter
+    - SCCSwiftyNetwork
+    - semver
+    - Starscream (~> 2)
+    - SwiftLint
+    - SwiftyJSON
+  - JCore (1.2.6)
+  - JPTCarMall (0.2.0):
+    - Billow_Destiny/Carmall
+    - Billow_Destiny/Common
+    - Billow_Destiny/Detail
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Promotion
+    - Billow_Destiny/Store
+    - Billow_Destiny/Swift
+    - Billow_Destiny/Tabbar
+    - Billow_JiaXuan
+    - Billow_JiaXuan/Buycar
+    - Billow_JiaXuan/Cardlist
+    - Billow_JiaXuan/Detail
+    - Billow_JiaXuan/Empty
+    - Billow_JiaXuan/Home
+    - Billow_JiaXuan/List
+    - Billow_JiaXuan/Message
+    - Billow_JiaXuan/Owner
+    - Billow_JiaXuan/Search
+    - Billow_JiaXuan/Setting
+    - DSTClueCenter
+    - DSTConstant
+    - DSTMocker
+    - DSTPodConfig
+    - DSTRefresh
+    - DSTUserInterface
+    - JPTUserCenter
+    - JPTWebViewController
+    - ObjectMapper
+    - RBBorderView
+    - RxCocoa (= 4.2.0)
+    - RxDataSources
+    - RxSwift (= 4.2.0)
+    - SCCHostConfigCenter
+    - SCCModule
+    - SCCSwiftBasicWebView
+    - SCCSwiftUtil
+    - SCCURLConfig
+    - SCCWebView_swift
+    - SnapKit
+    - SwiftyJSON
+  - JPTCity (3.0.2):
+    - Billow_Destiny
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Swift
+    - BillowBase
+    - JPTCityChoice
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SCCModule
+    - SCCSwiftyNetwork
+    - SCCURLConfig
+    - SnapKit
+  - JPTCityChoice (1.2.3)
+  - JPTProfile (5.0.5):
+    - Billow_Destiny/Appicon
+    - Billow_Destiny/Common
+    - Billow_Destiny/Empty
+    - Billow_Destiny/Favourite
+    - Billow_Destiny/Login
+    - Billow_Destiny/Profile
+    - Billow_Destiny/Service
+    - Billow_Destiny/Store
+    - Billow_Destiny/Swift
+    - Billow_JiaXuan/Detail
+    - Billow_JiaXuan/Login
+    - Billow_JiaXuan/Owner
+    - Billow_JiaXuan/Swift
+    - DSTConstant
+    - DSTImagePicker
+    - DSTRefresh
+    - DSTUserInterface
+    - JPTUserCenter
+    - Kingfisher
+    - ObjectMapper
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - SCCDataCollection
+    - SCCLocationAndMap (= 1.2.6)
+    - SCCModule
+    - SCCSwiftUtil
+    - SCCSwiftyNetwork
+    - SCCURLConfig
+    - SnapKit
+    - SwiftyJSON
+  - JPTUserCenter (2.1.2):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Login
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Swift
+    - Billow_JiaXuan/Login
+    - Billow_JiaXuan/Swift
+    - DSTConstant
+    - DSTPodConfig
+    - DSTUserInterface/BezierPath
+    - DSTUserInterface/Button
+    - DSTUserInterface/Color
+    - DSTUserInterface/Font
+    - DSTUserInterface/Label
+    - DSTUserInterface/TextField
+    - DSTUserInterface/Toast
+    - DSTUserInterface/ViewExtensions
+    - Kingfisher
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SCCAlipay (= 15.5.3.ut)
+    - SCCDevice
+    - SCCModule
+    - SCCSwiftBasicWebView
+    - SCCSwiftUtil
+    - SCCSwiftyNetwork
+    - SCCURLConfig
+    - SCCWebView_swift
+    - SnapKit
+  - JPTWebViewController (2.0.1):
+    - Billow_Destiny/Common
+    - Billow_Destiny/Swift
+    - DSTRefresh
+    - DSTUserInterface/EmptyView
+    - DSTUserInterface/Image
+    - SCCSwiftBasicWebView
+    - SnapKit
+  - JPush (3.0.9):
+    - JCore (~> 1.2.0)
+  - JSONModel (1.8.0)
+  - Kingfisher (4.2.0)
+  - M80AttributedLabel (1.6.3)
+  - Masonry (1.1.0)
+  - MBProgressHUD (0.9.2)
+  - MJExtension (3.0.15.1)
+  - Nuke (7.5.2)
+  - ObjectMapper (3.3.0)
+  - RBBorderView (1.0.0)
+  - ReachabilitySwift (4.3.0)
+  - React/ART (0.43.4):
+    - React/Core
+  - React/Core (0.43.4):
+    - React/cxxreact
+    - Yoga
+  - React/cxxreact (0.43.4):
+    - React/jschelpers
+  - React/jschelpers (0.43.4)
+  - React/RCTActionSheet (0.43.4):
+    - React/Core
+  - React/RCTAdSupport (0.43.4):
+    - React/Core
+  - React/RCTAnimation (0.43.4):
+    - React/Core
+  - React/RCTCameraRoll (0.43.4):
+    - React/Core
+    - React/RCTImage
+  - React/RCTGeolocation (0.43.4):
+    - React/Core
+  - React/RCTImage (0.43.4):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTLinkingIOS (0.43.4):
+    - React/Core
+  - React/RCTNetwork (0.43.4):
+    - React/Core
+  - React/RCTPushNotification (0.43.4):
+    - React/Core
+  - React/RCTSettings (0.43.4):
+    - React/Core
+  - React/RCTText (0.43.4):
+    - React/Core
+  - React/RCTVibration (0.43.4):
+    - React/Core
+  - React/RCTWebSocket (0.43.4):
+    - React/Core
+  - Realm (3.13.1):
+    - Realm/Headers (= 3.13.1)
+  - Realm/Headers (3.13.1)
+  - RealmSwift (3.13.1):
+    - Realm (= 3.13.1)
+  - RNCarBrandSelect (1.1.3)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SCCAccountLogin (0.1.3):
+    - DFCNetwork
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SCCUserInterface
+    - SVProgressHUD (= 2.1.2)
+  - SCCAlertController (1.3.0):
+    - Masonry
+    - RBBorderView
+    - SCCPodFoundation
+    - SCCUserInterface
+  - SCCAlipay (15.5.3.ut)
+  - SCCAppTool (1.0.7)
+  - SCCBusinessRouter (0.3.2):
+    - SCCModule (~> 1.2.0)
+  - SCCDataCollection (1.2.0):
+    - SCCDataCollection/contact (= 1.2.0)
+    - SCCDataCollection/hotstart (= 1.2.0)
+    - SCCDataCollection/location (= 1.2.0)
+    - SCCDataCollection/loginandout (= 1.2.0)
+    - SCCDataCollection/strategy (= 1.2.0)
+    - SCCDataCollection/systeminfo (= 1.2.0)
+  - SCCDataCollection/contact (1.2.0):
+    - SCCDataCollection/strategy
+  - SCCDataCollection/hotstart (1.2.0):
+    - SCCDataCollection/strategy
+  - SCCDataCollection/location (1.2.0):
+    - SCCDataCollection/strategy
+    - SCCLocationAndMap
+  - SCCDataCollection/loginandout (1.2.0):
+    - SCCDataCollection/strategy
+    - SCCPodFoundation
+  - SCCDataCollection/strategy (1.2.0):
+    - FMDB
+    - SCCDevice
+    - SCCNet
+    - SCCPodFoundation/Api
+    - SCCURLConfig
+    - ZipArchive
+  - SCCDataCollection/systeminfo (1.2.0):
+    - SCCDataCollection/strategy
+  - SCCDebugLog (0.2.1):
+    - SCCDebugLog/Core (= 0.2.1)
+    - SCCDebugLog/ObjC (= 0.2.1)
+    - SCCDebugLog/Swift (= 0.2.1)
+  - SCCDebugLog/Core (0.2.1)
+  - SCCDebugLog/ObjC (0.2.1)
+  - SCCDebugLog/Swift (0.2.1)
+  - SCCDevice (0.3.1):
+    - SCCDevice/Base (= 0.3.1)
+  - SCCDevice/Base (0.3.1)
+  - SCCHostCenter (0.4.3):
+    - DFCHud
+    - SCCAppTool
+    - SCCHostConfigCenter
+    - SCCHostConfigCenter/RNData
+    - SCCModule
+    - SCCNet
+    - SCCPodFoundation
+  - SCCHostConfigCenter (2.0.0):
+    - SCCHostConfigCenter/Core (= 2.0.0)
+  - SCCHostConfigCenter/Core (2.0.0):
+    - SCCURLConfig
+  - SCCHostConfigCenter/RNData (2.0.0):
+    - React/Core
+    - SCCHostConfigCenter/Core
+    - Yoga (= 0.43.4)
+  - SCCLocationAndMap (1.2.6):
+    - SCCLocationAndMap/Location (= 1.2.6)
+  - SCCLocationAndMap/Location (1.2.6):
+    - SCCModule
+  - SCCModelKeeper (0.0.10)
+  - SCCModule (1.2.9)
+  - SCCNamespace (0.2.0)
+  - SCCNet (0.3.3):
+    - SCCNet/Api (= 0.3.3)
+    - SCCNet/Core (= 0.3.3)
+    - SCCNet/Handler (= 0.3.3)
+    - SCCNet/Header (= 0.3.3)
+    - SCCNet/QRCodeHandler (= 0.3.3)
+  - SCCNet/Api (0.3.3):
+    - SCCNet/Core
+  - SCCNet/Core (0.3.3):
+    - AFNetworking
+  - SCCNet/Handler (0.3.3):
+    - SCCNet/Core
+    - SCCNet/QRCodeHandler
+  - SCCNet/Header (0.3.3):
+    - SCCNet/Api
+    - SCCNet/Core
+    - SCCNet/Handler
+    - SCCNet/QRCodeHandler
+  - SCCNet/QRCodeHandler (0.3.3):
+    - SCCModule
+  - SCCPhotoBrowser (2.5.11):
+    - Billow_CheNiu/Camera
+    - Billow_CheNiu/ObjC
+    - Billow_CheNiu/Photobrowse
+    - Billow_CheNiu/Photoedit
+    - Billow_CheNiu/Video
+    - DFCHud
+    - DFCTools
+    - JSONModel
+    - Masonry
+    - SCCAlertController
+    - SCCDevice
+    - SCCNet
+    - SCCPodFoundation
+    - SCCPoplayer
+    - SCCTrack
+    - SCCUserInterface/Controller
+    - SDWebImage (~> 4.4.0)
+  - SCCPodFoundation (0.2.5):
+    - SCCPodFoundation/Api (= 0.2.5)
+    - SCCPodFoundation/Category (= 0.2.5)
+    - SCCPodFoundation/Config (= 0.2.5)
+    - SCCPodFoundation/Define (= 0.2.5)
+    - SCCPodFoundation/Header (= 0.2.5)
+    - SCCPodFoundation/Module (= 0.2.5)
+  - SCCPodFoundation/Api (0.2.5):
+    - SCCNet
+    - SCCPodFoundation/Config
+  - SCCPodFoundation/Category (0.2.5)
+  - SCCPodFoundation/Config (0.2.5)
+  - SCCPodFoundation/Define (0.2.5)
+  - SCCPodFoundation/Header (0.2.5):
+    - SCCPodFoundation/Api
+    - SCCPodFoundation/Category
+    - SCCPodFoundation/Config
+    - SCCPodFoundation/Module
+  - SCCPodFoundation/Module (0.2.5):
+    - SCCModule
+  - SCCPoplayer (1.2.6):
+    - SCCPoplayer/Base (= 1.2.6)
+    - SCCPoplayer/Guide (= 1.2.6)
+    - SCCPoplayer/Modal (= 1.2.6)
+    - SCCPoplayer/Poplayer (= 1.2.6)
+    - SCCPoplayer/Tooltip (= 1.2.6)
+  - SCCPoplayer/Base (1.2.6):
+    - Masonry
+    - MJExtension
+    - SCCModule
+    - SCCPodFoundation
+    - SCCUserInterface
+    - SCCWebImage (~> 0.0.25)
+  - SCCPoplayer/Guide (1.2.6):
+    - SCCPoplayer/Base
+  - SCCPoplayer/Modal (1.2.6):
+    - SCCPoplayer/Base
+  - SCCPoplayer/Poplayer (1.2.6):
+    - Billow_CheNiu/ObjC
+    - Billow_CheNiu/Popup
+    - FMDB
+    - SCCHostConfigCenter
+    - SCCNet
+    - SCCPoplayer/Base
+  - SCCPoplayer/Tooltip (1.2.6):
+    - Billow_DaFengChe/Dialog
+    - Billow_DaFengChe/ObjC
+    - SCCPoplayer/Base
+  - SCCQRCode/Create (0.1.15):
+    - SCCModule
+  - SCCQRCode/Scan (0.1.15):
+    - SCCModule
+  - SCCReactNative (2.3.8):
+    - SCCReactNative/Core (= 2.3.8)
+  - SCCReactNative/Core (2.3.8):
+    - Masonry
+    - MBProgressHUD (= 0.9.2)
+    - MJExtension
+    - React/ART
+    - React/Core
+    - React/RCTActionSheet
+    - React/RCTAdSupport
+    - React/RCTAnimation
+    - React/RCTCameraRoll
+    - React/RCTGeolocation
+    - React/RCTImage
+    - React/RCTLinkingIOS
+    - React/RCTNetwork
+    - React/RCTPushNotification
+    - React/RCTSettings
+    - React/RCTText
+    - React/RCTVibration
+    - React/RCTWebSocket
+    - SCCDevice
+    - SCCModule (~> 1.2.1)
+    - SCCNet
+    - SCCPodFoundation
+    - SCCURLConfig
+    - SCCUserInterface/Color
+    - Yoga (= 0.43.4)
+    - ZipArchive
+  - SCCReactNative/DevSupport (2.3.8):
+    - SCCQRCode/Scan
+    - SCCReactNative/Core
+    - SCCUserInterface/Color
+    - SCCUserInterface/Controller
+    - SCCUserInterface/Image
+    - SCCUserInterface/Toast
+  - SCCRoadmap (0.1.15):
+    - SCCModule
+    - SCCTrack
+  - SCCSwiftBasicWebView (0.5.25):
+    - Billow_Destiny/Navigation
+    - Billow_Destiny/Swift
+    - DSTLocationManager
+    - DSTRefresh
+    - DSTUserInterface
+    - Kingfisher
+    - SCCModule
+    - SCCSwiftyNetwork
+    - SCCWebView_swift
+  - SCCSwiftUtil (4.0.4):
+    - SCCSwiftUtil/Common (= 4.0.4)
+    - SCCSwiftUtil/Rx (= 4.0.4)
+    - SCCSwiftUtil/Then (= 4.0.4)
+  - SCCSwiftUtil/Common (4.0.4)
+  - SCCSwiftUtil/Rx (4.0.4):
+    - RxSwift
+  - SCCSwiftUtil/Then (4.0.4)
+  - SCCSwiftyComponent (1.0.3.static):
+    - DSTImagePicker
+    - DSTPhotoBrowser
+    - DSTUserInterface
+    - SCCModule
+    - SCCQRCode/Create
+    - SCCSwiftyNetwork
+  - SCCSwiftyHostCenter (4.0.4):
+    - RxDataSources
+    - SCCModule
+    - SCCSwiftUtil
+    - SCCSwiftyNetwork/Core
+    - SCCSwiftyNetwork/JSONParser
+  - SCCSwiftyNetwork (4.3.0):
+    - SCCSwiftyNetwork/API (= 4.3.0)
+    - SCCSwiftyNetwork/Core (= 4.3.0)
+    - SCCSwiftyNetwork/JSONParser (= 4.3.0)
+  - SCCSwiftyNetwork/API (4.3.0):
+    - DSTPodConfig
+    - ObjectMapper
+    - SCCSwiftyNetwork/Core
+    - SCCSwiftyNetwork/JSONParser
+  - SCCSwiftyNetwork/Core (4.3.0):
+    - DSTPodConfig
+    - SCCModelKeeper
+    - SCCSwiftyNetwork/JSONParser
+  - SCCSwiftyNetwork/JSONParser (4.3.0):
+    - Alamofire
+    - RxSwift (= 4.2.0)
+    - SCCModelKeeper
+    - SCCModule
+    - SwiftyJSON (= 3.1.4)
+  - SCCTestUtils (0.2.9):
+    - SCCTestUtils/Default (= 0.2.9)
+  - SCCTestUtils/Default (0.2.9):
+    - DFCHttpDomainConfig (>= 1.2.0)
+    - SCCAccountLogin
+    - SCCHostCenter
+    - SCCHostConfigCenter
+    - SCCHostConfigCenter/RNData
+    - SCCReactNative
+    - SCCReactNative/DevSupport
+    - SCCURLConfig (>= 1.3.0)
+    - SVProgressHUD (= 2.1.2)
+  - SCCTrack (2.1.2):
+    - MJExtension
+    - SCCDataCollection
+    - SCCModule
+  - SCCURLConfig (1.5.1):
+    - SCCURLConfig/Core (= 1.5.1)
+  - SCCURLConfig/ConfigCache (1.5.1)
+  - SCCURLConfig/Core (1.5.1):
+    - SCCURLConfig/ConfigCache
+  - SCCUserInterface (0.3.39):
+    - SCCUserInterface/Accessory (= 0.3.39)
+    - SCCUserInterface/Alert (= 0.3.39)
+    - SCCUserInterface/Button (= 0.3.39)
+    - SCCUserInterface/Cell (= 0.3.39)
+    - SCCUserInterface/CG (= 0.3.39)
+    - SCCUserInterface/Checkbox (= 0.3.39)
+    - SCCUserInterface/Color (= 0.3.39)
+    - SCCUserInterface/Control (= 0.3.39)
+    - SCCUserInterface/Controller (= 0.3.39)
+    - SCCUserInterface/Datasource (= 0.3.39)
+    - SCCUserInterface/Device (= 0.3.39)
+    - SCCUserInterface/Font (= 0.3.39)
+    - SCCUserInterface/Header (= 0.3.39)
+    - SCCUserInterface/Image (= 0.3.39)
+    - SCCUserInterface/Keyboard (= 0.3.39)
+    - SCCUserInterface/Layout (= 0.3.39)
+    - SCCUserInterface/Line (= 0.3.39)
+    - SCCUserInterface/Passcode (= 0.3.39)
+    - SCCUserInterface/PhotoVideo (= 0.3.39)
+    - SCCUserInterface/Progress (= 0.3.39)
+    - SCCUserInterface/Reload (= 0.3.39)
+    - SCCUserInterface/TagBar (= 0.3.39)
+    - SCCUserInterface/TextView (= 0.3.39)
+    - SCCUserInterface/Toast (= 0.3.39)
+  - SCCUserInterface/Accessory (0.3.39):
+    - Masonry
+    - SCCPodFoundation/Config
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+  - SCCUserInterface/Alert (0.3.39):
+    - Masonry
+  - SCCUserInterface/Button (0.3.39):
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+    - SCCUserInterface/Image
+  - SCCUserInterface/Cell (0.3.39)
+  - SCCUserInterface/CG (0.3.39):
+    - SDWebImage
+  - SCCUserInterface/Checkbox (0.3.39):
+    - SCCPodFoundation/Category
+  - SCCUserInterface/Color (0.3.39):
+    - SCCPodFoundation/Config
+  - SCCUserInterface/Control (0.3.39)
+  - SCCUserInterface/Controller (0.3.39)
+  - SCCUserInterface/Datasource (0.3.39)
+  - SCCUserInterface/Device (0.3.39)
+  - SCCUserInterface/Font (0.3.39)
+  - SCCUserInterface/Header (0.3.39):
+    - SCCUserInterface/Accessory
+    - SCCUserInterface/Alert
+    - SCCUserInterface/Button
+    - SCCUserInterface/Cell
+    - SCCUserInterface/CG
+    - SCCUserInterface/Checkbox
+    - SCCUserInterface/Color
+    - SCCUserInterface/Control
+    - SCCUserInterface/Controller
+    - SCCUserInterface/Datasource
+    - SCCUserInterface/Device
+    - SCCUserInterface/Font
+    - SCCUserInterface/Image
+    - SCCUserInterface/Keyboard
+    - SCCUserInterface/Layout
+    - SCCUserInterface/Line
+    - SCCUserInterface/Passcode
+    - SCCUserInterface/Progress
+    - SCCUserInterface/Reload
+    - SCCUserInterface/TagBar
+    - SCCUserInterface/TextView
+    - SCCUserInterface/Toast
+  - SCCUserInterface/Image (0.3.39)
+  - SCCUserInterface/Keyboard (0.3.39)
+  - SCCUserInterface/Layout (0.3.39)
+  - SCCUserInterface/Line (0.3.39):
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+  - SCCUserInterface/Passcode (0.3.39):
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+  - SCCUserInterface/PhotoVideo (0.3.39)
+  - SCCUserInterface/Progress (0.3.39):
+    - SCCUserInterface/Color
+  - SCCUserInterface/Reload (0.3.39):
+    - Masonry
+    - SCCPodFoundation/Category
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+    - SCCUtil
+  - SCCUserInterface/TagBar (0.3.39):
+    - Masonry
+    - SCCUserInterface/Color
+    - SCCUserInterface/Font
+  - SCCUserInterface/TextView (0.3.39)
+  - SCCUserInterface/Toast (0.3.39):
+    - Billow_CheNiu/ObjC
+    - Billow_CheNiu/Popup
+    - Billow_CheNiu/Toast
+    - MBProgressHUD (= 0.9.2)
+    - SCCModule
+  - SCCUtil (0.3.9):
+    - SCCUtil/Category (= 0.3.9)
+    - SCCUtil/Define (= 0.3.9)
+    - SCCUtil/Protocol (= 0.3.9)
+  - SCCUtil/Category (0.3.9)
+  - SCCUtil/Define (0.3.9):
+    - AFNetworking/Reachability (= 3.0.4)
+  - SCCUtil/Protocol (0.3.9)
+  - SCCWebImage (0.0.32)
+  - SCCWebView_swift (1.1.3):
+    - SCCWebView_swift/Core (= 1.1.3)
+  - SCCWebView_swift/Core (1.1.3)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - semver (1.1.0)
+  - SnapKit (4.0.0)
+  - Starscream (2.1.1)
+  - SVProgressHUD (2.1.2)
+  - SwiftLint (0.32.0)
+  - SwiftyJSON (3.1.4)
+  - UMengAnalytics (4.2.4)
+  - Yoga (0.43.4)
+  - ZipArchive (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.1)
+  - AMapFoundation (= 1.5.6)
+  - Billow_JiaXuan/Swift
+  - Billow_JiaXuan/Tabbar
+  - BillowBase
+  - Bugtags (= 3.0.3)
+  - Cynosural (= 0.6.9)
+  - Cynosural/AppTool
+  - Cynosural/DebugWebViewTool
+  - Cynosural/GitPannel
+  - Cynosural/RNDev
+  - Cynosural/RoadMapTrackTool
+  - DifferenceKit (= 0.6.0)
+  - Differentiator (= 3.1.0)
+  - DSTImagePicker (= 1.6.1)
+  - DSTLog (= 0.1.1)
+  - DSTMessageCenter (= 3.1.13)
+  - DSTPhotoBrowser (= 1.3.1)
+  - DSTPodConfig (= 0.3.0)
+  - DSTRefresh (= 0.4.0)
+  - DSTShare (= 0.3.15)
+  - DSTShare/Wechat
+  - DSTUserInterface (= 1.2.61)
+  - DSTVideoPlayer
+  - GDPerformanceView-Swift (~> 1.2.0)
+  - Hermes_iOS (from `../Hermes_iOS`)
+  - HermesCore (from `../hermescore-ios`)
+  - "JPTCarMall (from `git@git.souche-inc.com:Jupiter_iOS/JPTCarMall.git`, branch `wxh`)"
+  - JPTCity (= 3.0.2)
+  - JPTCityChoice (= 1.2.3)
+  - JPTProfile (= 5.0.5)
+  - JPTUserCenter (= 2.1.2)
+  - JPTWebViewController (= 2.0.1)
+  - JPush (= 3.0.9)
+  - Kingfisher (= 4.2.0)
+  - Masonry (= 1.1.0)
+  - MJExtension (= 3.0.15.1)
+  - ObjectMapper (= 3.3.0)
+  - ReachabilitySwift (= 4.3.0)
+  - Realm (= 3.13.1)
+  - RNCarBrandSelect (= 1.1.3)
+  - RxCocoa (= 4.2.0)
+  - RxSwift (= 4.2.0)
+  - SCCAppTool
+  - SCCBusinessRouter (= 0.3.2)
+  - SCCDataCollection (= 1.2.0)
+  - SCCHostCenter (= 0.4.3)
+  - SCCHostConfigCenter (= 2.0.0)
+  - SCCLocationAndMap (= 1.2.6)
+  - SCCModule
+  - SCCPhotoBrowser (= 2.5.11)
+  - SCCReactNative (= 2.3.8)
+  - SCCRoadmap (= 0.1.15)
+  - SCCSwiftBasicWebView (= 0.5.25)
+  - SCCSwiftyComponent (= 1.0.3.static)
+  - SCCSwiftyHostCenter
+  - SCCSwiftyNetwork (= 4.3.0)
+  - SCCTestUtils
+  - SCCTrack (= 2.1.2)
+  - SCCURLConfig (= 1.5.1)
+  - SCCUserInterface (= 0.3.39)
+  - SCCWebView_swift (= 1.1.3)
+  - SDWebImage (= 4.4.2)
+  - SnapKit (= 4.0.0)
+  - UMengAnalytics (= 4.2.4)
+
+SPEC REPOS:
+  http://git.souche-inc.com/geliang/cheniu_pod.git:
+    - Billow_CheNiu
+    - Billow_DaFengChe
+    - Billow_Destiny
+    - Billow_JiaXuan
+    - BillowBase
+    - Cynosural
+    - DFCAlertView
+    - DFCHttpDomainConfig
+    - DFCHud
+    - DFCLog
+    - DFCNetwork
+    - DFCTools
+    - DSTClueCenter
+    - DSTConstant
+    - DSTImagePicker
+    - DSTLocationManager
+    - DSTLog
+    - DSTMessageCenter
+    - DSTMocker
+    - DSTPhotoBrowser
+    - DSTPodConfig
+    - DSTRefresh
+    - DSTShare
+    - DSTUserInterface
+    - DSTVideoPlayer
+    - JPTCity
+    - JPTProfile
+    - JPTUserCenter
+    - JPTWebViewController
+    - React
+    - SCCAccountLogin
+    - SCCAlertController
+    - SCCAlipay
+    - SCCAppTool
+    - SCCBusinessRouter
+    - SCCDataCollection
+    - SCCDebugLog
+    - SCCDevice
+    - SCCHostCenter
+    - SCCHostConfigCenter
+    - SCCLocationAndMap
+    - SCCModelKeeper
+    - SCCModule
+    - SCCNamespace
+    - SCCNet
+    - SCCPhotoBrowser
+    - SCCPodFoundation
+    - SCCPoplayer
+    - SCCQRCode
+    - SCCReactNative
+    - SCCRoadmap
+    - SCCSwiftBasicWebView
+    - SCCSwiftUtil
+    - SCCSwiftyComponent
+    - SCCSwiftyHostCenter
+    - SCCSwiftyNetwork
+    - SCCTestUtils
+    - SCCTrack
+    - SCCURLConfig
+    - SCCUserInterface
+    - SCCUtil
+    - SCCWebImage
+    - SCCWebView_swift
+    - Yoga
+  http://git.souche-inc.com/souche-react-native/RNPodRepo.git:
+    - JPTCityChoice
+    - RNCarBrandSelect
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Alamofire
+    - AMapFoundation
+    - Aspects
+    - Bugtags
+    - DifferenceKit
+    - Differentiator
+    - FMDB
+    - GDPerformanceView-Swift
+    - JCore
+    - JPush
+    - JSONModel
+    - Kingfisher
+    - M80AttributedLabel
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - Nuke
+    - ObjectMapper
+    - RBBorderView
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SDWebImage
+    - semver
+    - SnapKit
+    - Starscream
+    - SVProgressHUD
+    - SwiftLint
+    - SwiftyJSON
+    - UMengAnalytics
+    - ZipArchive
+
+EXTERNAL SOURCES:
+  Hermes_iOS:
+    :path: "../Hermes_iOS"
+  HermesCore:
+    :path: "../hermescore-ios"
+  JPTCarMall:
+    :branch: wxh
+    :git: "git@git.souche-inc.com:Jupiter_iOS/JPTCarMall.git"
+
+CHECKOUT OPTIONS:
+  JPTCarMall:
+    :commit: b1e05a2dd97ee38e8690f80f22c6fccb33713242
+    :git: "git@git.souche-inc.com:Jupiter_iOS/JPTCarMall.git"
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AMapFoundation: 20fce2a12cd152e1092afdd04379cdac21932185
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  Billow_CheNiu: 0760bcf3b264573c57797406684c49c2fc5aa533
+  Billow_DaFengChe: 44cd2a4d2e8f761bc622bcf4dbe9eee6da13c3b7
+  Billow_Destiny: 0f521e95754e7d981fdd0829dcb3ac6b14972e21
+  Billow_JiaXuan: ec9f90829a4adffc46d4b742112ded99cf88eab7
+  BillowBase: 1c7aece80da8d2c3cfeb7bb869c84bce308059ed
+  Bugtags: a93c30fcc0b020200eb9b34d756c6059f6c92143
+  Cynosural: b30b185f3a6d12fd55770afdf5edad1d2bef9712
+  DFCAlertView: 396504009704a7dab2452b478f69f00d52a0f421
+  DFCHttpDomainConfig: 670791c1a8c9d09191d1fe6fe45bae9ea5bcd1b8
+  DFCHud: 5e3267bc6cb41b3fb004521f11ee44b329839974
+  DFCLog: 8785fd82f1ac6bfc7d2dbe422b4bf91653ef7577
+  DFCNetwork: e048488f3bb7682297df26d119aa9c9d55addc50
+  DFCTools: bbca18e623b90419ac0c43b9e3680690177d3771
+  DifferenceKit: 824ab6ecd2a20cc658071b2c0c071114cf91e4c9
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  DSTClueCenter: f3b01dae452c5e14c55e780e7ba5e513df05d9e7
+  DSTConstant: c6b2929f96e004ce411bc4879c4f3a2e709a85a1
+  DSTImagePicker: 250188fa57005bb8565acc1a5a829aa9bf5b0fc4
+  DSTLocationManager: b5a532c69cdcf83741051c88998d030cbfacc9b8
+  DSTLog: 6e8e5f7f4091c34c06e56a64638e69cd8dceca35
+  DSTMessageCenter: 1aada7c3305dc88ff7c394015e2d76ed1bbfe076
+  DSTMocker: a752801f21986d8f765763266246ea5fc43d5928
+  DSTPhotoBrowser: a2a1a583e4a27c633eabbc551a4a9337d9c6c7e0
+  DSTPodConfig: 9b7fde68ed950421dbfc53d612f3fff8e2fb0fbb
+  DSTRefresh: ff156d3725f7a21563bdb99a42644a0ca62da469
+  DSTShare: 814c45991d2e6536d804e6ed623666f696b8aac3
+  DSTUserInterface: 661b0c44a23a8ccbe665125eafea08e83479840e
+  DSTVideoPlayer: ad700982a3b715c4c1d14309f743fff424646ce1
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  GDPerformanceView-Swift: 5f12f13dcdca4cb87f91ef91ba6b50981421c57f
+  Hermes_iOS: 66e82264762359d22531741801691c68a64f0a4d
+  HermesCore: 6bd3c17e47a41e0d6c267963d104831eaa16e7e8
+  JCore: cae516dd2bf1a73b578ce6e1065abd49e709e0f7
+  JPTCarMall: 41052b7d8bbf76a19ff6e2893b5a0c1a8dabcb04
+  JPTCity: 2f90c02ab3934d71403af1f3545cda42e10ca6d4
+  JPTCityChoice: 5810d333f182159848ac8f7dc9e3dccd0e5785e8
+  JPTProfile: 2d48442838d5663eb130b035f158305ed7720520
+  JPTUserCenter: 945196cbb2c2b641daec29e855b3335e346b2f34
+  JPTWebViewController: fca54b6fb0f1d4ad83a0e5be65f21bcafc336bfa
+  JPush: 48041e8c5ad2ef9b48709eb0888af9640b36e9b0
+  JSONModel: 02ab723958366a3fd27da57ea2af2113658762e9
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  M80AttributedLabel: d06543195d3e451d2ea62ad76d04aa9cea7661d4
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  RBBorderView: b02602807c2b07d67a84f75c0c99c516e6e3a83b
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  React: 9f54d232cab719774783018bb07aa4a9d4852a50
+  Realm: 50071da38fe079e0735e47c9f2eae738c68c5996
+  RealmSwift: 8a1e6a02b7a08cd17a31e3115143fb69fe5f3fb9
+  RNCarBrandSelect: defc5e5a133764a00789e0b22819b0b629483356
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxDataSources: a843bad90c29817f5923ec8163f4af2de084ceb3
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SCCAccountLogin: b1aef16785140d3a508221a3210e14873ab48863
+  SCCAlertController: d5789a2604e32554b198bc44c7073fc90bff00a3
+  SCCAlipay: 2d916ff4930842d50db9c696c2bdc3a570a33edb
+  SCCAppTool: 4f5a562b2eb2ea62a337c1251061a1715139f2f5
+  SCCBusinessRouter: 9b76fa4cfa390bb85d0e5a5f99fd597489ba5ecc
+  SCCDataCollection: 5d3fadae7885cd37533fe8e147f96cc81134497a
+  SCCDebugLog: 7fecc92b9ce1edc1de553c9551f49ea1db7578f0
+  SCCDevice: 16afd5028bb2777e8f3ac0e21ee105e00f517346
+  SCCHostCenter: ec5d8d56a8e1486a27ed77793a3112f1ac3e3cb0
+  SCCHostConfigCenter: a18cb7450861297673be2ef35d89ac27c3645305
+  SCCLocationAndMap: e8bb71c23b7ebf8cd37ddee6f8f9d7e0078f88db
+  SCCModelKeeper: e9b1c04ef7e31d7425883fc1432b9fd09c568f14
+  SCCModule: 4209755aba1a75a4d3b21a0a0f302df011426a11
+  SCCNamespace: 348d36a2ddf62da211ea35fe4eaa9a6c9c12d348
+  SCCNet: dba4dee392624c09def34b31b53f6327f4004b2e
+  SCCPhotoBrowser: 64aa3c72ca02c68958ec8c219d7186bee56ec813
+  SCCPodFoundation: 1c5c8c937c907e26678bf994c1d6072ef1ec21b2
+  SCCPoplayer: 422456867acafc3038fd099c2003da9052244c8c
+  SCCQRCode: d0b1868d77058e656273e42cc22771c6c09145a6
+  SCCReactNative: abb35540a4fb60ef597a17b89070e225498a71ed
+  SCCRoadmap: 27638eed488fcef79b4c32f4a634c33bd5d5890a
+  SCCSwiftBasicWebView: 9baa6c068727a1904932216c7962670854dbd650
+  SCCSwiftUtil: 2703832c9b8c76aaef1dd6ff680a9e77e8c82a1b
+  SCCSwiftyComponent: ba0240f130783bce85415a7055c45ea5306cbf96
+  SCCSwiftyHostCenter: dfab06e5eb561976dbdf68cd8851c249cda38f8c
+  SCCSwiftyNetwork: 725d11c510a5f90de354acca0b05d6123370f90a
+  SCCTestUtils: 7fb6a7d33d516718e07c0dc304523afc4fc421f7
+  SCCTrack: 63742278fc8f293ef2c955ff4f8a0dbc7ab50ed9
+  SCCURLConfig: 65eed1207a1786bd0bd2b79030040cc963026498
+  SCCUserInterface: 905fd03f7946915811f4509e3e7a3ded36c43d12
+  SCCUtil: 194e62ba9401e44ef533ee0a4ba93f224742aa38
+  SCCWebImage: 0e4d28b895ed7a1b7c954cd7fa4c44b882b5398a
+  SCCWebView_swift: 094d70a5acf2173c06cbbf8cf494626afa6080a6
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  semver: 11ae3bc4a6036efbc86b5863ef5fa32c065c8bbd
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Starscream: 142bd8ef24592d985daee9fa48c936070b85b15f
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftLint: 009a898ef2a1c851f45e1b59349bf6ff2ddc990d
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+  Yoga: 425dc9de5c7a16758d14cf9f4c1f44860e6fe79e
+  ZipArchive: e25a4373192673e3229ac8d6e9f64a3e5713c966
+
+PODFILE CHECKSUM: 95c9946bed1262ab135cfd2287b9145312a3075f
+
+COCOAPODS: 1.6.1

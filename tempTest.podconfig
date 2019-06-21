@@ -1,0 +1,27 @@
+#!/usr/bin/ruby -w
+# -*- coding : utf-8 -*-
+
+WHPlugin::WHConfig.new do |config|
+
+    config.name = 'tempTest'
+
+    config.summary = '布谷鸟 端日志跟踪方案iOS.'
+
+    config.description = <<-DESC
+    A library that simplifies the business Bug feedback process for iOS.
+                         DESC
+
+    config.readme = 'https://git.souche-inc.com/cuckoo/Cuckoo-iOS'
+
+    config.sources = Array[
+        "https://git.souche-inc.com/geliang/cheniu_pod",
+        "https://github.com/CocoaPods/Specs.git"
+    ]
+
+    config.uploadUrl = ''
+
+    config.repo = "souche-inc-geliang-cheniu_pod"
+
+    config.isZip = 0
+end
+

@@ -1,0 +1,5 @@
+MY_FILE_PATH = File.expand_path(File.dirname(__FILE__))
+require ("#{MY_FILE_PATH}/wh_config_reader.rb")
+     
+l = WHLinter.new
+l.linter()

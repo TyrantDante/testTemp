@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://git.souche.com/soucheclub/SCCUpload.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'acct<blob>=<NULL>' => 'huangcheng@souche.com' }
-  s.source           = { :git => 'git@git.souche-inc.com:souche-wireless-architecture/Pakun/ios_test_pod_upload.git' ,:tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TyrantDante/testTemp.git' ,:tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
   s.source_files = 'Sources/**/*',"Sources/*"
